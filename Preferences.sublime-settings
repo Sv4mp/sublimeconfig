@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"font_size": 17,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Material-Theme-Darker.sublime-theme"
+}
