@@ -1,10 +1,12 @@
 {
+	"close_windows_when_empty": true,
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"dictionary": "Packages/Language - English/en_US.dic",
-	"font_size": 17,
+	"font_size": 20,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"original_color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"theme": "Material-Theme-Darker.sublime-theme"
 }
