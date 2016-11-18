@@ -2,7 +2,7 @@
 	"close_windows_when_empty": true,
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"dictionary": "Packages/Language - English/en_US.dic",
-	"font_size": 20,
+	"font_size": 19,
 	"ignored_packages":
 	[
 		"Vintage"
