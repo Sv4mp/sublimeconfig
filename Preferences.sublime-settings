@@ -1,12 +1,38 @@
 {
+	"afn_insert_width_first": true,
+	"afn_use_project_root": true,
+	"afn_valid_scopes":
+	[
+		"jade",
+		"pug",
+		"string",
+		"css",
+		"sass",
+		"less",
+		"scss"
+	],
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": "/",
+			"selector": "string.quoted.double.html,string.quoted.single.html, source.css"
+		}
+	],
 	"close_windows_when_empty": true,
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"dictionary": "Packages/Language - English/en_US.dic",
-	"font_size": 19,
+	"email_account_default_identity": "Ludovic Boiteux <ludovic@spin-on.fr>",
+	"email_account_default_smtp": "smtps://ludovic@spin-on.fr:boitl84euoy53@smtp-relay.gmail.com:25",
+	"font_size": 18,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"original_color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-	"theme": "Material-Theme-Darker.sublime-theme"
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"word_separators": "./\\()\"':,.;<>~!@#%^&*|+=[]{}`~?"
 }

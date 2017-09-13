@@ -1,0 +1,1990 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tl_over",
+				"tl_overlay_exit"
+			],
+			[
+				"tl_overla",
+				"tl_overlay_show"
+			],
+			[
+				"$c-as",
+				"$c-ascomade\t $primary"
+			],
+			[
+				"outils-",
+				"outils-guides-liens-utiles"
+			],
+			[
+				"actualit",
+				"actualites-reglementation"
+			],
+			[
+				"tran",
+				"transformOrigin"
+			],
+			[
+				"$f-",
+				"$font-medium\t 'AvenirMedium', sans-serif"
+			],
+			[
+				"main",
+				"main_nav_top"
+			],
+			[
+				"$c-a",
+				"$c-assainissement\t(_variables.scss)"
+			],
+			[
+				"$c",
+				"$c-dechets\t(_variables.scss)"
+			],
+			[
+				"borderrad",
+				"border-radius"
+			],
+			[
+				"$as",
+				"$c-ascomade\t(_header.scss)"
+			],
+			[
+				"sim",
+				"simple-icon-svg\t(_home.scss)"
+			],
+			[
+				"simple",
+				"simple-icon-svg\t(_mixins.scss)"
+			],
+			[
+				"global",
+				"global-intro\t(_part1.scss)"
+			],
+			[
+				"getC",
+				"getCurrentSlide"
+			],
+			[
+				"first",
+				"firstSlide"
+			],
+			[
+				"reqe",
+				"requestMethod"
+			],
+			[
+				"win",
+				"winW"
+			],
+			[
+				"space",
+				"space_chrono"
+			],
+			[
+				"$m",
+				"$mobile-footer-h"
+			],
+			[
+				"current",
+				"current_indices"
+			],
+			[
+				"media",
+				"media query ipad landscape\tipad landscape"
+			],
+			[
+				"full",
+				"fullH_winW"
+			],
+			[
+				"point",
+				"pointer-events"
+			],
+			[
+				"mobile",
+				"mobilecheck"
+			],
+			[
+				"$mobi",
+				"$mobile_breakpoint\t(_part2.scss)"
+			],
+			[
+				"essential",
+				"essential_to_know\t(part4.jade)"
+			],
+			[
+				"speci",
+				"specific_composition\t(overlays.jade)"
+			],
+			[
+				"blank",
+				"blankOddRow"
+			],
+			[
+				"navig",
+				"navigation_bar\t(mixins.jade)"
+			],
+			[
+				"congratu",
+				"congratulations_text\t(sliding-puzzles.jade)"
+			],
+			[
+				"$result_",
+				"$result_list_item〔variable〕"
+			],
+			[
+				"setup",
+				"setupTiles"
+			],
+			[
+				"activ",
+				"activate_ticker"
+			],
+			[
+				"tile",
+				"tileCount"
+			],
+			[
+				"future",
+				"future_emptytilePos"
+			],
+			[
+				"legende_phase2_",
+				"legende_phase2_traits"
+			],
+			[
+				"legende",
+				"legende_phase2"
+			],
+			[
+				"t_",
+				"t_carte_item"
+			],
+			[
+				"delay",
+				"delay_carte_item"
+			],
+			[
+				"final_top_con",
+				"final_top_content_items"
+			],
+			[
+				"networ",
+				"$network_1_circle〔variable〕"
+			],
+			[
+				"network",
+				"network_2_points"
+			],
+			[
+				"txt",
+				"txt_step_3"
+			],
+			[
+				"trees",
+				"trees_m"
+			],
+			[
+				"mound",
+				"mound_2"
+			],
+			[
+				"legende_op",
+				"$legende_operateurs_prives_items〔variable〕"
+			],
+			[
+				"wav",
+				"waves"
+			],
+			[
+				"animation",
+				"animation_step"
+			],
+			[
+				"animatio",
+				"animation_step"
+			],
+			[
+				"tre",
+				"trees_m"
+			],
+			[
+				"new",
+				"$new_logo〔variable〕"
+			],
+			[
+				"cloud",
+				"clouds_2"
+			],
+			[
+				"to",
+				"top_content_step_2_items"
+			],
+			[
+				"waves",
+				"waves_items"
+			],
+			[
+				"mou",
+				"mound_big"
+			],
+			[
+				"source",
+				"source_parent"
+			],
+			[
+				"targ",
+				"target_parent"
+			],
+			[
+				"target",
+				"target_subof"
+			],
+			[
+				"index",
+				"index_target〔variable〕"
+			],
+			[
+				"direc",
+				"direction"
+			],
+			[
+				"swipe",
+				"swipeMainSections"
+			],
+			[
+				"request",
+				"requestFullScreen"
+			],
+			[
+				"border-bottom",
+				"border-bottom-right-radius"
+			],
+			[
+				"borderrads",
+				"border-top-left-radius"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"switch",
+				"switchContent"
+			],
+			[
+				"t",
+				"t_slide"
+			],
+			[
+				"2017",
+				"2017_letters"
+			],
+			[
+				"Power",
+				"Power2.easeOut"
+			],
+			[
+				"triangle",
+				"triangle-w"
+			],
+			[
+				"L",
+				"img/logo-kiriola-icon.svg"
+			],
+			[
+				"cdn",
+				"cdn\tjQuery"
+			],
+			[
+				"primar",
+				"primary-light"
+			],
+			[
+				"translate",
+				"translateX"
+			],
+			[
+				"prev",
+				"preventDefault"
+			],
+			[
+				"targe",
+				"target=\"_blank"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"quanti",
+				"quantity"
+			],
+			[
+				"quantity",
+				"quantity-td"
+			],
+			[
+				"set_new",
+				"set_new_quantity"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"translat",
+				"translate"
+			],
+			[
+				"clor",
+				"color"
+			],
+			[
+				"butto",
+				"buttonXhr"
+			],
+			[
+				"callb",
+				"callbackDone"
+			],
+			[
+				"done",
+				"callbackDone"
+			],
+			[
+				"callB",
+				"callbackDone"
+			],
+			[
+				"int_subh",
+				"_int_subheader_advertiser"
+			],
+			[
+				"userPanel",
+				"userPanelIcons"
+			],
+			[
+				"ton-li-",
+				"ton-li-on-off"
+			],
+			[
+				"ton-li-p",
+				"ton-li-people-6"
+			],
+			[
+				"noti",
+				"notification"
+			],
+			[
+				"screen",
+				"screen-portrait"
+			],
+			[
+				"notif",
+				"notifTitle"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/sftp-config.json",
+			"settings":
+			{
+				"buffer_size": 1384,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/header.php",
+			"settings":
+			{
+				"buffer_size": 4195,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/assets/sass/layout/_wrapper.scss",
+			"settings":
+			{
+				"buffer_size": 6074,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/js/mce-buttons.js",
+			"settings":
+			{
+				"buffer_size": 659,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/assets/sass/base/_page.scss",
+			"settings":
+			{
+				"buffer_size": 2015,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/assets/css/main.css",
+			"settings":
+			{
+				"buffer_size": 65178,
+				"line_ending": "CR"
+			}
+		},
+		{
+			"file": "/Users/thomas/Documents/Ludovic/Projets/Tai chi/anjoutaidb17--01-08--16-31.sql",
+			"settings":
+			{
+				"buffer_size": 548474,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/footer.php",
+			"settings":
+			{
+				"buffer_size": 807,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/assets/js/main.js",
+			"settings":
+			{
+				"buffer_size": 3778,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/assets/sass/components/_list.scss",
+			"settings":
+			{
+				"buffer_size": 4672,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/assets/sass/layout/_menu.scss",
+			"settings":
+			{
+				"buffer_size": 4612,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/front-page.php",
+			"settings":
+			{
+				"buffer_size": 2441,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/assets/sass/layout/_footer.scss",
+			"settings":
+			{
+				"buffer_size": 3263,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 333.0,
+		"last_filter": "utf",
+		"selected_items":
+		[
+			[
+				"utf",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"diff",
+				"SFTP: Diff Remote File"
+			],
+			[
+				"moni",
+				"SFTP: Monitor File (Upload on External Save)"
+			],
+			[
+				"down",
+				"SFTP: Download File"
+			],
+			[
+				"mo",
+				"SFTP: Monitor File (Upload on External Save)"
+			],
+			[
+				"bro",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"browse re",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"pretti",
+				"HTMLPrettify"
+			],
+			[
+				"r",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"to 4",
+				"ReIndent: to 4"
+			],
+			[
+				"prettify",
+				"HTMLPrettify"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"pug ",
+				"Build With: Pug"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"autofile",
+				"AutoFileName: Default Settings"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"deped",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"depende",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"filename",
+				"AutoFileName: Default Settings"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reindot",
+				"ReIndent: to 4"
+			],
+			[
+				"instal",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove package",
+				"Package Control: Remove Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"code time",
+				"CodeTimeTracker: Open Dashboard"
+			],
+			[
+				"waka",
+				"WakaTime: Open Dashboard"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"utf8",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"syntax javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"time",
+				"CodeTimeTracker: Open Dashboard"
+			],
+			[
+				"ww",
+				"Word Wrap: Toggle"
+			],
+			[
+				"ter",
+				"Terminal: Open in project folder"
+			],
+			[
+				"termina",
+				"Terminal: Open"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"rein",
+				"ReIndent: to 4"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"tracker",
+				"CodeTimeTracker: Open Dashboard"
+			],
+			[
+				"wakati",
+				"WakaTime: Open Dashboard"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"reindt",
+				"ReIndent: to 4"
+			],
+			[
+				"git diff",
+				"Git: Diff All Files"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"reindto",
+				"ReIndent: to 4"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"reindent",
+				"ReIndent: to 2"
+			],
+			[
+				"convert to tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"wordw",
+				"Word Wrap: Toggle"
+			],
+			[
+				"brose r",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"open in bro",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"cdn",
+				"Cdnjs: Search"
+			],
+			[
+				"mon",
+				"SFTP: Monitor File (Upload on External Save)"
+			],
+			[
+				"",
+				"Cdnjs: Search"
+			],
+			[
+				"monit",
+				"SFTP: Monitor File (Upload on External Save)"
+			],
+			[
+				"synchr",
+				"SFTP: Sync Both Directions…"
+			],
+			[
+				"browse",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"remote",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"indent",
+				"ReIndent: to 4"
+			],
+			[
+				"filepath",
+				"FuzzyFilePath: Rebuild cache"
+			],
+			[
+				"filepat",
+				"Insert Filepath"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"cdn ",
+				"Cdnjs: Search"
+			],
+			[
+				"svg fa",
+				"Snippet: SVG Icon Facebook"
+			],
+			[
+				"path",
+				"FuzzyFilePath: Show current settings"
+			],
+			[
+				"fontfa",
+				"Snippet: @font-face"
+			],
+			[
+				"import ",
+				"Project Manager: Import .sublime-project File"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"monitor",
+				"SFTP: Monitor File (Upload on External Save)"
+			],
+			[
+				"dif",
+				"SFTP: Diff Remote File"
+			],
+			[
+				"diff r",
+				"SFTP: Diff Remote File"
+			],
+			[
+				"do",
+				"SFTP: Download File"
+			],
+			[
+				"diff re",
+				"SFTP: Diff Remote File"
+			],
+			[
+				"rename",
+				"Rename Local and Remote Files"
+			],
+			[
+				"merg",
+				"Emmet: Merge Lines"
+			],
+			[
+				"merge",
+				"Emmet: Merge Lines"
+			],
+			[
+				"dif r",
+				"SFTP: Diff Remote File"
+			],
+			[
+				"dow",
+				"SFTP: Download File"
+			],
+			[
+				"diffr",
+				"SFTP: Diff Remote File"
+			],
+			[
+				"difr",
+				"SFTP: Diff Remote File"
+			],
+			[
+				"d",
+				"SFTP: Diff Remote File"
+			],
+			[
+				"downl",
+				"SFTP: Download File"
+			],
+			[
+				"fakei",
+				"Snippet: fakeimg"
+			],
+			[
+				"open in",
+				"Project Manager: Open Project in New Window"
+			],
+			[
+				"downlo",
+				"SFTP: Download File"
+			],
+			[
+				"wo",
+				"Word Wrap: Toggle"
+			],
+			[
+				"sftp",
+				"SFTP: Show Panel"
+			],
+			[
+				"upload",
+				"SFTP: Upload Open Files"
+			],
+			[
+				"fake",
+				"Snippet: fakeimg"
+			],
+			[
+				"snippet ",
+				"Snippet: fai-trello"
+			],
+			[
+				"svg go",
+				"Snippet: SVG Icon Google Plus"
+			],
+			[
+				"svg face",
+				"Snippet: SVG Icon Facebook"
+			],
+			[
+				"mateir",
+				"Material Theme: Activate theme"
+			],
+			[
+				"material",
+				"Material Theme: Activate theme"
+			],
+			[
+				"syntax",
+				"Set Syntax: SCSS"
+			],
+			[
+				"mat",
+				"Material Theme: Activate theme"
+			],
+			[
+				"mate",
+				"Material Theme: Configuration"
+			],
+			[
+				"removepac",
+				"Package Control: Remove Package"
+			],
+			[
+				"svg",
+				"Snippet: SVG Icon YouTube"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"show",
+				"SFTP: Show Panel"
+			],
+			[
+				"panel",
+				"SFTP: Show Panel"
+			],
+			[
+				"shpw",
+				"SFTP: Show Panel"
+			],
+			[
+				"twig",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"beautif",
+				"Javascript Beautify"
+			],
+			[
+				"inden",
+				"ReIndent: to 4"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"activate ",
+				"Material Theme: Activate theme"
+			],
+			[
+				"packageresour",
+				"PackageResourceViewer: Open Resource"
+			]
+		],
+		"width": 431.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '261dd1222b4693ce6d4f85f9c827ac06' + '6d5ab8ebdd020086947172a8a1356bb6'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi",
+		"/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/assets",
+		"/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/assets/css",
+		"/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/assets/js",
+		"/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/assets/sass",
+		"/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/templates"
+	],
+	"file_history":
+	[
+		"/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/assets/css/main.css",
+		"/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/assets/sass/main.scss",
+		"/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/functions.php",
+		"/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/assets/sass/layout/_footer.scss",
+		"/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/assets/sass/layout/_header.scss",
+		"/var/folders/gq/pcxb9zss73q3n0z56z3lgcw00000gn/T/sublime-sftp-browse-1500548563/mapped/preprod/wp-content/themes/tai-chi/header.php",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/jade/includes/register-login.pug",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/jade/includes/extramenu.pug",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/sass/_project/00_base/_base.scss",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/sass/_project/03_layout/_overlay-block.scss",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/js/timelines/tl-utils.js",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/js/timelines.js",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/js/class/onreadyevents.class.js",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/js/timelines/tl-extramenu.js",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/jade/includes/header.pug",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/jade/includes/footer.pug",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/sass/_project/03_layout/_register-login.scss",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/sass/_project/01_components/_buttons.scss",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/dist/js/app.js",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/js/app.js",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/sass/_project/03_layout/_header.scss",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/sass/_project/03_layout/_search.scss",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/js/timelines/tl-register-login.js",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/sass/_project/03_layout/_extramenu.scss",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/sass/app.scss",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/jade/includes/utils/param.pug",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/jade/includes/mixins.pug",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/jade/includes/svg/icon-eau-potable.svg",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/jade/includes/svg/icon-communication.svg",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/jade/includes/svg/icon-dechets.svg",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/jade/includes/svg/icon-assainissement.svg",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/sass/_plugins/bootstrap/mixins/_vendor-prefixes.scss",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/sass/_project/03_layout/_footer.scss",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/sass/_plugins/animate/animate.scss",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/js/class/onready.class.js",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/sass/_project/02_modules/_form.scss",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/sass/_project/04_page/_home.scss",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/dist/css/main.css",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/jade/includes/template.pug",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/sass/_config/_variables.scss",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/js/class/sliders.class.js",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/js/class/loader.class.js",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/jade/includes/head.pug",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/sass/_project/00_base/_animations.scss",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/sass/_project/01_components/_lists.scss",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/dist/css/ag2r.css",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/jade/includes/svg/arrow-cross.svg",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/sass/_config/_mixins.scss",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/gulpfile.js",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/index.html",
+		"/Users/thomas/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/thomas/Library/Application Support/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/package-lock.json",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/js/sliders.js",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/dist/js/sliders.js",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code--webpack/ascomade-code/gulpfile.js",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/js/app2.js",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/js/app2-dist.js",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/jade/includes/nav.pug",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/jade/includes/nav-top.pug",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/webpack.config.js",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/jade/includes/nav-footer.pug",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/.gitignore",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/sass/_plugins/spinon/_loader.scss",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/sass/_project/01_components/_ripple.scss",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/sass/_config/_fonts.scss",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/js/lib/slick.js",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/jade/test.pug",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/settings.js",
+		"/Users/thomas/Documents/SPINON/TOOLS/static-starter/webpack.config.js",
+		"/Users/thomas/Documents/SPINON/TOOLS/static-starter/settings.js",
+		"/Users/thomas/Documents/SPINON/TOOLS/static-starter/.git/config",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/sass/_plugins/knacss/_config/_variables_k.scss",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/jade/includes/nav.jade",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/jade/prepros-6.config",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/jade/lorem.pug",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/app.html",
+		"/Users/thomas/Documents/SPINON/TOOLS/static-starter/README.md",
+		"/Users/thomas/Documents/SPINON/TOOLS/static-starter/src/sass/_project/00_base/_animations.scss",
+		"/Users/thomas/Documents/SPINON/TOOLS/static-starter/src/sass/_project/00_base/_base.scss",
+		"/Users/thomas/Documents/SPINON/TOOLS/static-starter/src/jade/includes/footer.pug",
+		"/Users/thomas/Documents/SPINON/TOOLS/static-starter/src/jade/includes/head.pug",
+		"/Users/thomas/Documents/SPINON/TOOLS/static-starter/src/jade/includes/header.pug",
+		"/Users/thomas/Documents/SPINON/TOOLS/static-starter/src/sass/_project/02_modules/_articles.scss",
+		"/Users/thomas/Documents/SPINON/TOOLS/static-starter/src/sass/_project/03_layout/_footer.scss",
+		"/Users/thomas/Documents/SPINON/TOOLS/static-starter/src/sass/_project/03_layout/_header.scss",
+		"/Users/thomas/Documents/SPINON/TOOLS/static-starter/src/sass/_project/04_page/_home.scss",
+		"/Users/thomas/Documents/SPINON/TOOLS/static-starter/src/sass/_plugins/spinon/_loader.scss",
+		"/Users/thomas/Documents/SPINON/TOOLS/static-starter/src/sass/_config/_fonts.scss",
+		"/Users/thomas/Documents/SPINON/TOOLS/static-starter/src/sass/_config/_variables.scss",
+		"/Users/thomas/Documents/SPINON/TOOLS/static-starter/src/sass/_config/_fonts-mixins.scss",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/package.json",
+		"/Users/thomas/Documents/SPINON/TOOLS/static-starter/src/sass/_project/01_components/_lists.scss",
+		"/Users/thomas/Documents/SPINON/TOOLS/static-starter/index.html",
+		"/Users/thomas/Documents/SPINON/TOOLS/static-starter/src/sass/_project/01_components/_socials.scss",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/README.md",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/sass/_project/01_components/_socials.scss",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/images/trames/trame.svg",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/sass/_config/_fonts-mixins.scss",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/fonts/avenir.css",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/sass/_project/01_components/_logo.scss",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/sass/_plugins/knacss/knacss.scss",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/jade/includes/utils/functions.pug",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/jade/template.pug",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/jade/includes/head.jade",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/jade/includes/header.jade",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/jade/includes/utils/param.jade",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/jade/index.html",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/.git/config",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/jade/includes/footer.jade",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/jade/template.jade",
+		"/Users/thomas/Documents/SPINON/TOOLS/Splashscreen-icon-generator/gulpfile.js",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/jade/index.jade",
+		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/jade/dashboard.jade",
+		"/Users/thomas/Documents/SPINON/ascomade.sublime-project",
+		"/Users/thomas/Documents/SPINON/SAVARIN/YSL/code/css/games/family.scss",
+		"/Users/thomas/Documents/SPINON/SAVARIN/YSL/code/jade/index.jade",
+		"/Users/thomas/Documents/SPINON/SAVARIN/YSL/code/jade/includes/main/part5.jade",
+		"/Users/thomas/Documents/SPINON/SAVARIN/YSL/code/css/pages/_part1.scss",
+		"/Users/thomas/Documents/SPINON/SAVARIN/YSL/code/css/pages/_part2.scss",
+		"/Users/thomas/Documents/SPINON/SAVARIN/YSL/code/css/games/puzzles.scss",
+		"/Users/thomas/Documents/SPINON/SAVARIN/YSL/code/css/pages/_part4.scss",
+		"/Users/thomas/Documents/SPINON/SAVARIN/YSL/code/js/script.js",
+		"/Users/thomas/Documents/SPINON/SAVARIN/YSL/code/js/games.js",
+		"/Users/thomas/Documents/SPINON/SAVARIN/YSL/code/css/games/material-drag-drop.scss",
+		"/Users/thomas/Documents/SPINON/SAVARIN/YSL/code/css/pages/_part3.scss",
+		"/Users/thomas/Documents/SPINON/SAVARIN/YSL/code/css/base/_typography.scss",
+		"/Users/thomas/Documents/SPINON/SAVARIN/YSL/code/js/game-sliding-puzzle.js"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/assets/sass",
+			"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/js",
+			"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/sass/_project",
+			"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/sass",
+			"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src",
+			"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/jade",
+			"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/sass",
+			"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/js",
+			"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/sass",
+			"/Users/thomas/Documents/SPINON/SAVARIN/YSL/code/jade",
+			"/Users/thomas/Documents/SPINON/DOUBS THD/code/jade/includes/svg",
+			"/Users/thomas/Documents/SPINON/Kiriola/Voeux/code/jade/includes",
+			"/Users/thomas/Documents/SPINON/Kiriola/Voeux/code/css",
+			"/Applications/MAMP/htdocs/teekers-dev/public",
+			"/Applications/MAMP/htdocs/teekers-dev/fuel/app/views/public",
+			"/Applications/MAMP/htdocs/teekers-dev",
+			"/Applications/MAMP/htdocs/teekers-dev/fuel/app",
+			"/Applications/MAMP/htdocs/teekers-dev/fuel/app/classes/controller",
+			"/Applications/MAMP/htdocs/teekers-dev/fuel",
+			"/Applications/MAMP/htdocs/teekers-dev/fuel/app",
+			"/Applications/MAMP/htdocs/teekers-dev/fuel/app/classes/controller/public",
+			"/Applications/MAMP/htdocs/teekers-dev/fuel/app/classes",
+			"/Applications/MAMP/htdocs/teekers-dev/public/assets/themes",
+			"/Applications/MAMP/htdocs/teekers-dev/public",
+			"/Applications/MAMP/htdocs/teekers-dev/public/assets/js",
+			"/Applications/MAMP/htdocs/teekers-dev/public",
+			"/Applications/MAMP/htdocs/teekers-dev/public/assets",
+			"/Applications/MAMP/htdocs/teekers-dev/fuel",
+			"/Applications/MAMP/htdocs/teekers-dev/fuel/app",
+			"/Applications/MAMP/htdocs/teekers-dev/fuel/app/classes",
+			"/Applications/MAMP/htdocs/teekers-dev/fuel/app",
+			"/Applications/MAMP/htdocs/teekers-dev/fuel/app/classes",
+			"/Applications/MAMP/htdocs/teekers-dev/fuel/app/classes/controller",
+			"/Applications/MAMP/htdocs/teekers-dev/fuel/app",
+			"/Applications/MAMP/htdocs/teekers-dev/fuel/app/classes",
+			"/Applications/MAMP/htdocs/teekers-dev/public",
+			"/Applications/MAMP/htdocs/teekers-dev/fuel",
+			"/Applications/MAMP/htdocs/teekers-dev/public/assets/themes/public",
+			"/Applications/MAMP/htdocs/teekers-dev/fuel/app/views/public/views/deal",
+			"/Applications/MAMP/htdocs/teekers-dev/fuel/app/views/public/templates",
+			"/Applications/MAMP/htdocs/teekers-dev/fuel/app/classes/model",
+			"/Applications/MAMP/htdocs/teekers-dev/fuel",
+			"/Applications/MAMP/htdocs/teekers-dev/fuel/app/views",
+			"/Applications/MAMP/htdocs/teekers-dev/fuel/app/views/public",
+			"/Applications/MAMP/htdocs/teekers-dev/fuel/app/views",
+			"/Applications/MAMP/htdocs/teekers-dev/fuel/app/views/public/views",
+			"/Applications/MAMP/htdocs/teekers-dev/fuel/app/views/public/views/user"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"preprod.anjou-taichi.fr",
+			"td",
+			"current-menu-item",
+			"wrapper",
+			"auto, 125",
+			"background-image: linear-gradient(to top, rgba(46, 49, 65, <?php echo $bg_opacity; ?>), rgba(46, 49, 65, <?php echo $bg_opacity; ?>)), url(<?php echo $bg_img_url; ?>);",
+			"background-image: -o-linear-gradient(bottom, rgba(46, 49, 65, <?php echo $bg_opacity; ?>), rgba(46, 49, 65, <?php echo $bg_opacity; ?>)), url(<?php echo $bg_img_url; ?>);",
+			"background-image: -webkit-linear-gradient(bottom, rgba(46, 49, 65, <?php echo $bg_opacity; ?>), rgba(46, 49, 65, <?php echo $bg_opacity; ?>)), url(<?php echo $bg_img_url; ?>);",
+			"background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(46, 49, 65, <?php echo $bg_opacity; ?>)), to(rgba(46, 49, 65, <?php echo $bg_opacity; ?>))), url(<?php echo $bg_img_url; ?>);",
+			"background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(46, 49, 65, <?php echo $bg_opacity; ?>)), to(rgba(46, 49, 65, <?php echo $bg_opacity; ?>))), url(<?php echo $bg_img_url; ?>);\n          background-image: -webkit-linear-gradient(bottom, rgba(46, 49, 65, <?php echo $bg_opacity; ?>), rgba(46, 49, 65, <?php echo $bg_opacity; ?>)), url(<?php echo $bg_img_url; ?>);\n          background-image: -o-linear-gradient(bottom, rgba(46, 49, 65, <?php echo $bg_opacity; ?>), rgba(46, 49, 65, <?php echo $bg_opacity; ?>)), url(<?php echo $bg_img_url; ?>);\n          background-image: linear-gradient(to top, rgba(46, 49, 65, <?php echo $bg_opacity; ?>), rgba(46, 49, 65, <?php echo $bg_opacity; ?>)), url(<?php echo $bg_img_url; ?>);",
+			"background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(46, 49, 65, <?php echo $bg_opacity; ?>)), to(rgba(46, 49, 65, <?php echo $bg_opacity; ?>))), url(<?php echo $bg_img_url; ?>);\n            background-image: -webkit-linear-gradient(bottom, rgba(46, 49, 65, <?php echo $bg_opacity; ?>), rgba(46, 49, 65, <?php echo $bg_opacity; ?>)), url(<?php echo $bg_img_url; ?>);\n            background-image: -o-linear-gradient(bottom, rgba(46, 49, 65, <?php echo $bg_opacity; ?>), rgba(46, 49, 65, <?php echo $bg_opacity; ?>)), url(<?php echo $bg_img_url; ?>);\n            background-image: linear-gradient(to top, rgba(46, 49, 65, <?php echo $bg_opacity; ?>), rgba(46, 49, 65, <?php echo $bg_opacity; ?>)), url(<?php echo $bg_img_url; ?>);",
+			"background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(46, 49, 65, <?php echo $bg_opacity; ?>)), to(rgba(46, 49, 65, <?php echo $bg_opacity; ?>))), url(<?php echo $bg_img_url; ?>);",
+			"linear, left bottom, left top, from",
+			"background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(46, 49, 65, <?php echo $bg_opacity; ?>)), to(rgba(46, 49, 65, <?php echo $bg_opacity; ?>))), url(<?php echo $bg_img_url; ?>);\n            background-image: -webkit-linear-gradient(bottom, rgba(46, 49, 65, <?php echo $bg_opacity; ?>), rgba(46, 49, 65, <?php echo $bg_opacity; ?>)), url(<?php echo $bg_img_url; ?>);\n            background-image: -o-linear-gradient(bottom, rgba(46, 49, 65, <?php echo $bg_opacity; ?>), rgba(46, 49, 65, <?php echo $bg_opacity; ?>)), url(<?php echo $bg_img_url; ?>);\n            background-image: linear-gradient(to top, rgba(46, 49, 65, <?php echo $bg_opacity; ?>), rgba(46, 49, 65, <?php echo $bg_opacity; ?>)), url(<?php echo $bg_img_url; ?>);",
+			"logo",
+			"../../images/bg.jpg",
+			"email",
+			"li",
+			"menu",
+			"Tai Chi Chuan",
+			"Qi Gong",
+			"Enseignement",
+			"title=\"Enseignement\">Enseignement</a></li>\n              <li><a href=\"/qi-gong\" title=\"Enseignement",
+			"enseignement",
+			"Cours Angers",
+			"L'association",
+			"#menu",
+			"1.3rem",
+			"opacity",
+			"> a",
+			"replace",
+			"#search-button",
+			"obf",
+			"valign",
+			"$body.addClass",
+			"search",
+			": ",
+			"let",
+			"']",
+			"['",
+			"let",
+			"$body",
+			"tl_overlay_",
+			"tl_overlay_show",
+			"default",
+			"tl_exit",
+			"tl_show",
+			"tl_",
+			"#login",
+			"login",
+			"tl_login",
+			"extramenu",
+			"login",
+			"extramenu",
+			"login",
+			"button",
+			"login",
+			"search-site",
+			"extramenu",
+			"agrements-dispositifs",
+			"anc",
+			"retours-techniques",
+			"actualites-reglementation",
+			"presentation",
+			"const",
+			"this.tl",
+			"var",
+			"eau_potable",
+			"['eau-potable']",
+			"dechets",
+			"TL.extramenu",
+			"dechets",
+			"communication",
+			"eau-potable",
+			"prev",
+			"nav",
+			"2.6",
+			"1.5em",
+			"1.35",
+			"1.5",
+			"2em",
+			"clearprop",
+			"0.05",
+			"from",
+			"dechets",
+			"1",
+			"arrow",
+			".btn.btn-circle.btn-arrow",
+			"prev",
+			"partenaires",
+			"a-savoir",
+			"adherent #",
+			"action",
+			"Action",
+			"action",
+			"Action",
+			"action",
+			"Action",
+			"action",
+			"Action",
+			"outils-sensibilisation",
+			"conseil-services-personnalises",
+			"actualites",
+			"rencontres-communication",
+			"communication",
+			"retours-techniques",
+			"outils-guides-liens-utiles",
+			"outils-guides-liens-utiles.html",
+			"-reglementation",
+			"eau-potable",
+			"rencontres-eau-potable",
+			"dechets",
+			"glemantation",
+			"actualites-reglementation",
+			"assainissement",
+			"dechets",
+			"presentation",
+			"1",
+			"lorem",
+			"[i]",
+			"elem",
+			"species",
+			"| ",
+			"contact",
+			"#nav",
+			"nav",
+			"z-index",
+			"#search-button"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"anjou-taichi.fr",
+			"src/",
+			"xlink:href=\"jade/includes/svg/images/",
+			"<li>\n\t\t\t\t\t\t\t<a href=\"\">\n\t\t\t\t\t\t\t\t<i class=\"ton ton-so-facebook\"></i>\n\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<a href=\"\">\n\t\t\t\t\t\t\t\t<i class=\"ton ton-so-twitter-1\"></i>\n\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<a href=\"\">\n\t\t\t\t\t\t\t\t<i class=\"ton ton-so-snapchat\"></i>\n\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<a href=\"\">\n\t\t\t\t\t\t\t\t<i class=\"ton ton-so-instagram\"></i>\n\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t</li>",
+			"ton ton-li-heart",
+			"ton ton-li-map-pin-4",
+			"ton ton-li-clock-2",
+			"ton ton-li-speech-bubble-2",
+			"ton ton-li-gong",
+			"ton ton-li-file-2",
+			"ton ton-li-cart-2",
+			"ton ton-li-people-6",
+			"geneticancer.org"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/sftp-config.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								250,
+								250
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"sorttabs_lastactivated": 1501055782.33,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4195,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1210,
+								1210
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"sorttabs_lastactivated": 1501153481.71,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 191.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/assets/sass/layout/_wrapper.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6074,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2253,
+								2204
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"sorttabs_lastactivated": 1501163692.99,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/js/mce-buttons.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 659,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								311,
+								311
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"open_with_edit": true,
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"sorttabs_lastactivated": 1501156765.31,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/assets/sass/base/_page.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2015,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								191,
+								191
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"sorttabs_lastactivated": 1501587505.65,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/assets/css/main.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 65178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"sorttabs_lastactivated": 1501597924.35,
+							"synced": false,
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 2548.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/thomas/Documents/Ludovic/Projets/Tai chi/anjoutaidb17--01-08--16-31.sql",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 548474,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								164993,
+								164996
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"sorttabs_lastactivated": 1501598135.1,
+							"synced": false,
+							"syntax": "Packages/SQL/SQL.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 4159.0,
+						"translation.y": 6966.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/footer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 807,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								126
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"sorttabs_lastactivated": 1501587472.94,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/assets/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3778,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1657,
+								1657
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"sorttabs_lastactivated": 1501163496.82,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1414.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/assets/sass/components/_list.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4672,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4661,
+								4661
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"sorttabs_lastactivated": 1500893869.04,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/assets/sass/layout/_menu.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4612,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2537,
+								2537
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"sorttabs_lastactivated": 1501153917.92,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1739.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/front-page.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2441,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1225,
+								1225
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"sorttabs_lastactivated": 1501587427.73,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/Users/thomas/Documents/Ludovic/Projets/Tai chi/tai-chi/assets/sass/layout/_footer.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								417,
+								417
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"sorttabs_lastactivated": 1501587435.19,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 69.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 168.0
+	},
+	"pinned_build_system": "",
+	"project": "tai-chi.sublime-project",
+	"replace":
+	{
+		"height": 114.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 398.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

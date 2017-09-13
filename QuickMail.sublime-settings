@@ -1,0 +1,21 @@
+{
+    "Mailboxs": [
+
+                    {
+                        "identity": "ludovic@spin-on.fr",
+                        "authentication": "oauth",
+
+                        "parameters": {
+	                        // "name": "XXXX",
+	                        // "signature": "--XX",
+	                        "client_secret_file": "/Users/thomas/Documents/SPINON/client_secret_469020956816-qn3g48gbscvmadipg249ej8i3qtemfde.apps.googleusercontent.com.json",
+	                        "client_id": "469020956816-qn3g48gbscvmadipg249ej8i3qtemfde.apps.googleusercontent.com",
+	                        "client_secret": "SVuyV9cOqOCouQ-TBt-RJJer",
+	                        "tls": "yes",
+	                        "default": "yes"
+                      	}
+                    },
+
+                ],
+    "List Period": 4
+}

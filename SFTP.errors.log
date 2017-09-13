@@ -1,0 +1,44 @@
+2017-05-22 10:31:50
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1772, in complete
+  File "./python3.3/codecs.py", line 691, in read
+  File "./python3.3/codecs.py", line 494, in read
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xb1 in position 976: invalid start byte
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1743, in <lambda>
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1775, in complete
+  File "./python3.3/codecs.py", line 691, in read
+  File "./python3.3/codecs.py", line 494, in read
+  File "./python3.3/encodings/cp1252.py", line 15, in decode
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x8f in position 1258: character maps to <undefined>
+2017-05-22 10:32:02
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1772, in complete
+  File "./python3.3/codecs.py", line 691, in read
+  File "./python3.3/codecs.py", line 494, in read
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xb1 in position 976: invalid start byte
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1743, in <lambda>
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1775, in complete
+  File "./python3.3/codecs.py", line 691, in read
+  File "./python3.3/codecs.py", line 494, in read
+  File "./python3.3/encodings/cp1252.py", line 15, in decode
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x8f in position 1258: character maps to <undefined>
+2017-09-12 15:24:03
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1743, in <lambda>
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1778, in complete
+  File "./python3.3/codecs.py", line 896, in open
+FileNotFoundError: [Errno 2] No such file or directory: '/var/folders/gq/pcxb9zss73q3n0z56z3lgcw00000gn/T/sublime-sftp-diff-1505222640/fuel/app/views/public/templates/_modal-concours_bkup.twig'
+2017-09-12 15:24:10
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1743, in <lambda>
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1778, in complete
+  File "./python3.3/codecs.py", line 896, in open
+FileNotFoundError: [Errno 2] No such file or directory: '/var/folders/gq/pcxb9zss73q3n0z56z3lgcw00000gn/T/sublime-sftp-diff-1505222649/fuel/app/views/public/templates/_modal-concours_bkup.twig'
