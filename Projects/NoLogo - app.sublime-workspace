@@ -431,14 +431,6 @@
 			}
 		},
 		{
-			"file": "/Users/thomas/Documents/SPINON/NoLogo/2017/app/gulpfile.js",
-			"settings":
-			{
-				"buffer_size": 2846,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "/Users/thomas/Documents/SPINON/NoLogo/2017/app/src/jade/includes/header.pug",
 			"settings":
 			{
@@ -462,6 +454,14 @@
 			{
 				"buffer_size": 556,
 				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/thomas/Documents/SPINON/NoLogo/2017/app/src/js/class/onready.class.js",
+			"settings":
+			{
+				"buffer_size": 181,
 				"line_ending": "Unix"
 			}
 		},
@@ -1038,13 +1038,6 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/thomas/Documents/SPINON/NoLogo/2017/app",
-		"/Users/thomas/Documents/SPINON/NoLogo/2017/app/src",
-		"/Users/thomas/Documents/SPINON/NoLogo/2017/app/src/images",
-		"/Users/thomas/Documents/SPINON/NoLogo/2017/app/src/jade",
-		"/Users/thomas/Documents/SPINON/NoLogo/2017/app/src/js",
-		"/Users/thomas/Documents/SPINON/NoLogo/2017/app/src/js/class",
-		"/Users/thomas/Documents/SPINON/NoLogo/2017/app/src/js/lib"
 	],
 	"file_history":
 	[
@@ -1483,8 +1476,8 @@
 						"selection":
 						[
 							[
-								844,
-								844
+								135,
+								135
 							]
 						],
 						"settings":
@@ -1494,14 +1487,14 @@
 							"incomplete_sync": null,
 							"open_with_edit": true,
 							"remote_loading": false,
-							"sorttabs_lastactivated": 1504683418.92,
+							"sorttabs_lastactivated": 1509095220.13,
 							"synced": false,
 							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 304.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1509,41 +1502,6 @@
 				},
 				{
 					"buffer": 3,
-					"file": "/Users/thomas/Documents/SPINON/NoLogo/2017/app/gulpfile.js",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 2846,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								769,
-								769
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"origin_encoding": "ASCII",
-							"remote_loading": false,
-							"sorttabs_lastactivated": 1501165763.77,
-							"synced": false,
-							"syntax": "Packages/zzz A File Icon zzz/aliases/JavaScript (Gulpfile).sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 14.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
 					"file": "/Users/thomas/Documents/SPINON/NoLogo/2017/app/src/jade/includes/header.pug",
 					"semi_transient": false,
 					"settings":
@@ -1576,7 +1534,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 4,
 					"file": "/Users/thomas/Documents/SPINON/NoLogo/2017/app/src/jade/includes/head.pug",
 					"semi_transient": false,
 					"settings":
@@ -1610,7 +1568,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 5,
 					"file": "/Users/thomas/Documents/SPINON/NoLogo/2017/app/src/js/app.js",
 					"semi_transient": false,
 					"settings":
@@ -1622,17 +1580,18 @@
 						"selection":
 						[
 							[
-								459,
-								459
+								556,
+								556
 							]
 						],
 						"settings":
 						{
 							"auto_complete": false,
+							"git_gutter_is_enabled": false,
 							"incomplete_sync": null,
 							"origin_encoding": "ASCII",
 							"remote_loading": false,
-							"sorttabs_lastactivated": 1501159835.5,
+							"sorttabs_lastactivated": 1509095181.67,
 							"synced": false,
 							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
 							"tab_size": 4,
@@ -1643,6 +1602,40 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/thomas/Documents/SPINON/NoLogo/2017/app/src/js/class/onready.class.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 181,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"sorttabs_lastactivated": 1509095199.76,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -1748,7 +1741,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 32.0
+		"height": 31.0
 	},
 	"input":
 	{
@@ -1789,7 +1782,7 @@
 	"project": "NoLogo - app.sublime-project",
 	"replace":
 	{
-		"height": 60.0
+		"height": 58.0
 	},
 	"save_all_on_build": true,
 	"select_file":

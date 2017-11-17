@@ -1,8 +1,13 @@
 [
+	{ "keys": ["ctrl+b"], "command": "insert_snippet", "args": {"contents": "<br>"}},
+	{ "keys": ["ctrl+e"], "command": "insert_snippet", "args": {"contents": "<?php echo ${1:lorem}; ?>"}},
+	{ "keys": ["ctrl+tab"], "command": "indent" },
+	{ "keys": ["ctrl+shift+tab"], "command": "unindent" },
 	{ "keys": ["ctrl+tab"], "command": "next_view" },
 	{ "keys": ["ctrl+shift+tab"], "command": "prev_view" },
 	{ "keys": ["ctrl+alt+["], "command": "fold" },
 	{ "keys": ["ctrl+alt+]"], "command": "unfold" },
+	{ "keys": ["ctrl+shift+t"], "command": "open_recent_file", "args": {"index" : 0} },
 	{ "keys": ["ctrl+k", "ctrl+&"], "command": "fold_by_level", "args": {"level": 1} },
 	{ "keys": ["ctrl+k", "ctrl+é"], "command": "fold_by_level", "args": {"level": 2} },
 	{ "keys": ["ctrl+k", "ctrl+\""], "command": "fold_by_level", "args": {"level": 3} },
@@ -15,4 +20,6 @@
 	{ "keys": ["ctrl+k", "ctrl+à"], "command": "unfold_all" },
 	{ "keys": ["ctrl+k", "ctrl+j"], "command": "unfold_all" },
 	{ "keys": ["ctrl+k", "ctrl+t"], "command": "fold_tag_attributes" },
+	{ "keys": ["alt+space"], "command": "insert_snippet", "args": {"contents": " "}},
+	{ "keys": ["ctrl+e"], "command": "insert_date_comment", "args": { "block": false } },
 ]

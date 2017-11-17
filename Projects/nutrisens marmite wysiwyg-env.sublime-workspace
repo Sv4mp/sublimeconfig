@@ -423,16 +423,7 @@
 			"file": "/Users/thomas/Documents/SPINON/Nutrisens/wysiwyg-env/src/jade/index.pug",
 			"settings":
 			{
-				"buffer_size": 13249,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/thomas/Documents/SPINON/Nutrisens/wysiwyg-env/index-drupal.html",
-			"settings":
-			{
-				"buffer_size": 35994,
+				"buffer_size": 13962,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -441,7 +432,7 @@
 			"file": "/Users/thomas/Documents/SPINON/Nutrisens/wysiwyg-env/index.html",
 			"settings":
 			{
-				"buffer_size": 273189,
+				"buffer_size": 274185,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -1008,8 +999,8 @@
 	],
 	"file_history":
 	[
-		"/Users/thomas/Documents/SPINON/Nutrisens/wysiwyg-env/index.html",
 		"/Users/thomas/Documents/SPINON/Nutrisens/wysiwyg-env/index-drupal.html",
+		"/Users/thomas/Documents/SPINON/Nutrisens/wysiwyg-env/index.html",
 		"/Users/thomas/Documents/SPINON/Nutrisens/wysiwyg-env/main.css",
 		"/Users/thomas/Documents/SPINON/Nutrisens/wysiwyg-env/src/jade/includes/template.pug",
 		"/Users/thomas/Documents/SPINON/ASCOMADE/ascomade-code/src/jade/includes/mixins.pug",
@@ -1139,7 +1130,7 @@
 	],
 	"find":
 	{
-		"height": 70.0
+		"height": 71.0
 	},
 	"find_in_files":
 	{
@@ -1209,6 +1200,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"dediee",
+			"mon-banquet",
+			"http://www.nutrisens.com",
+			"wrapper",
 			"http://www.nutrisens.com",
 			" : ?",
 			"http://www.nutrisens.com",
@@ -1332,11 +1327,7 @@
 			"bandeau-closed",
 			"sbmarwbth",
 			"hidden",
-			"minHeight",
-			"min-height",
-			"var",
-			"toggle",
-			", "
+			"minHeight"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1376,15 +1367,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 13249,
+						"buffer_size": 13962,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5251,
-								5251
+								10335,
+								10335
 							]
 						],
 						"settings":
@@ -1395,13 +1386,13 @@
 							"is_init_dirty_state": false,
 							"origin_encoding": "UTF-8",
 							"remote_loading": false,
-							"sorttabs_lastactivated": 1505204094.38,
+							"sorttabs_lastactivated": 1505900844.16,
 							"synced": false,
 							"syntax": "Packages/Pug/Syntaxes/Pug.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2764.0,
+						"translation.y": 3603.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1409,19 +1400,19 @@
 				},
 				{
 					"buffer": 1,
-					"file": "/Users/thomas/Documents/SPINON/Nutrisens/wysiwyg-env/index-drupal.html",
+					"file": "/Users/thomas/Documents/SPINON/Nutrisens/wysiwyg-env/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 35994,
+						"buffer_size": 274185,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								35994
+								236636,
+								236636
 							]
 						],
 						"settings":
@@ -1429,15 +1420,17 @@
 							"auto_complete": false,
 							"git_gutter_is_enabled": false,
 							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
 							"remote_loading": false,
-							"sorttabs_lastactivated": 1505203336.47,
+							"sorttabs_lastactivated": 1505892998.94,
 							"synced": false,
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 14323.0,
+						"translation.y": 61564.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -1445,42 +1438,6 @@
 				},
 				{
 					"buffer": 2,
-					"file": "/Users/thomas/Documents/SPINON/Nutrisens/wysiwyg-env/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 273189,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								217284,
-								253829
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"git_gutter_is_enabled": false,
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"sorttabs_lastactivated": 1505202535.35,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 72649.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "/Users/thomas/Documents/SPINON/Nutrisens/wysiwyg-env/src/sass/app.scss",
 					"semi_transient": false,
 					"settings":
@@ -1503,16 +1460,16 @@
 							"is_init_dirty_state": false,
 							"origin_encoding": "ASCII",
 							"remote_loading": false,
-							"sorttabs_lastactivated": 1505202534.26,
+							"sorttabs_lastactivated": 1505747649.69,
 							"synced": false,
 							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 3912.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]

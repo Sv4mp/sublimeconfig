@@ -25,13 +25,14 @@
 	"close_windows_when_empty": true,
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"dictionary": "Packages/Language - English/en_US.dic",
-	"email_account_default_identity": "Ludovic Boiteux <ludovic@spin-on.fr>",
-	"email_account_default_smtp": "smtps://ludovic@spin-on.fr:boitl84euoy53@smtp-relay.gmail.com:25",
 	"font_size": 18,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"material_theme_contrast_mode": true,
+	"material_theme_tabs_autowidth": true,
+	"open_files_in_new_window": false,
 	"original_color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"theme": "Material-Theme-Darker.sublime-theme",
 	"word_separators": "./\\()\"':,.;<>~!@#%^&*|+=[]{}`~?"

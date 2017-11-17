@@ -1,4 +1,8 @@
 [
+	{ "keys": ["ctrl+b"], "command": "insert_snippet", "args": {"contents": "<br>"}},
+	{ "keys": ["ctrl+e"], "command": "insert_snippet", "args": {"contents": "<?php echo ${1:lorem}; ?>"}},
+	{ "keys": ["super+tab"], "command": "indent" },
+	{ "keys": ["super+shift+tab"], "command": "unindent" },
 	{ "keys": ["ctrl+tab"], "command": "next_view" },
 	{ "keys": ["ctrl+shift+tab"], "command": "prev_view" },
 	{ "keys": ["super+alt+["], "command": "fold" },
@@ -16,4 +20,6 @@
 	{ "keys": ["super+k", "super+à"], "command": "unfold_all" },
 	{ "keys": ["super+k", "super+j"], "command": "unfold_all" },
 	{ "keys": ["super+k", "super+t"], "command": "fold_tag_attributes" },
+	{ "keys": ["alt+space"], "command": "insert_snippet", "args": {"contents": " "}},
+	{ "keys": ["super+e"], "command": "insert_date_comment", "args": { "block": false } },
 ]
